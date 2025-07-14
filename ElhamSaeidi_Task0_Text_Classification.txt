@@ -1,0 +1,19 @@
+Feature	Model	Accuracy
+CountVectorizer	Naive Bayes	0.5946627721720659
+CountVectorizer	Logistic Regression	0.43361656930430165
+CountVectorizer	SVM	0.5529739776951673
+CountVectorizer	Decision Tree	0.4362719065321296
+CountVectorizer	Naive Bayes	0.5946627721720659
+CountVectorizer	Logistic Regression	0.43361656930430165
+CountVectorizer	SVM	0.5529739776951673
+CountVectorizer	Decision Tree	0.4423791821561338
+TF-IDF	Naive Bayes	0.6505576208178439
+TF-IDF	Logistic Regression	0.6476367498672332
+TF-IDF	SVM	0.6270578863515667
+TF-IDF	Decision Tree	0.43441317047265005
+Word2Vec	Logistic Regression	0.3175783324482209
+Word2Vec	SVM	0.33882103027084437
+Word2Vec	Decision Tree	0.169012214551248
+Doc2Vec	Logistic Regression	0.467206585236325
+Doc2Vec	SVM	0.4207381837493362
+Doc2Vec	Decision Tree	0.17711099309612321
